@@ -1,0 +1,11 @@
+My Cloud Learning Project
+
+This repository is created to practise Git and GitHub.
+
+Topics:
+- Git
+- GitHub
+- Branching
+- Pull Requests
+- CI/CD
+- AWS Cloud
